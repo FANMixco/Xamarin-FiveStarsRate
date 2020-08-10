@@ -1,4 +1,4 @@
-# FiveStarsRate-Xamarin
+# Xamarin-FiveStarsRate
 Xamarin.Android Five Stars Library is a small library that helps developer add a "Rate My App" dialog to their applications. It's called "Five Stars" because the dialog has a different behaviour based on the rating given by the user. Based on Angelo Gallarello's version: https://github.com/Angtrim/Android-Five-Stars-Library
 
 It's called "Five Stars" because the dialog has a different behaviour based on the rating given by the user.
