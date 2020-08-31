@@ -23,7 +23,9 @@ namespace FiveStarsRate_App
                     .SetUpperBound(2)
                     .SetNegativeReviewListener(new NegativeReview(this))
                     .SetReviewListener(new PositiveReview(this))
-                    .ShowAfter(0);
+                    .SetInAppReviewMode(true)
+                    .SetAfterNDaysMode(true)
+                    .ShowAfter(1);
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
