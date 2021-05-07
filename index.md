@@ -1,3 +1,7 @@
+<a href="https://github.com/sponsors/FANMixco/" target="_blank">
+   <img src="https://i.stack.imgur.com/zoyl1.png" alt="sponsor" />
+</a>
+
 It's called "Five Stars" because the dialog has a different behaviour based on the rating given by the user.
 
 If the user gives **4 or 5 stars out of 5**, the user is sent to the *Google Play Store* page to give an actual rating.
