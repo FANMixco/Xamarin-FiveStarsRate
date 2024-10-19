@@ -15,10 +15,9 @@ If "Force Mode" is activated, when the user selects 4/5 stars, he is immediately
 
 ## Get it
 
-|  Package  |Latest Release|
-|:----------|:------------:|
-|**Xamarin-FiveStarsRate**|[![NuGet Badge Xamarin-FiveStarsRate](https://buildstats.info/nuget/Xamarin-FiveStarsRate)](https://www.nuget.org/packages/Xamarin-FiveStarsRate/)|
-
+|Latest Release|Downloads|
+|:------------:|:------------:|
+|[![NuGet Badge Xamarin-FiveStarsRate](https://img.shields.io/nuget/v/Xamarin-FiveStarsRate)](https://www.nuget.org/packages/Xamarin-FiveStarsRate/)|[![NuGet Badge FiveStarsRate](https://img.shields.io/nuget/dt/Xamarin-FiveStarsRate)](https://www.nuget.org/packages/Xamarin-FiveStarsRate/)|
 
 ## How to use
 To use this library just add this snippet in the `OnCreate` of your activity.
